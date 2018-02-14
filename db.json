@@ -1,0 +1,92 @@
+[
+   {
+      "name": "Meine Liste",
+      "items": [
+         {
+            "id": 1,
+            "name": "Nutella",
+            "ean": "12342321567"
+         },
+         {
+            "id": 2,
+            "name": "Kakao",
+            "ean": "12342321567"
+         },
+         {
+            "id": 3,
+            "name": "Spüli",
+            "ean": "12342321567"
+         },
+         {
+            "id": 4,
+            "name": "Bier",
+            "ean": "12342321567"
+         },
+         {
+            "id": 5,
+            "name": "Eis",
+            "ean": "12342321567"
+         },
+         {
+            "id": 6,
+            "name": "Kaffee",
+            "ean": "12342321567"
+         },
+         {
+            "id": 7,
+            "name": "Schokolade",
+            "ean": "12342321567"
+         },
+         {
+            "id": 8,
+            "name": "Waschpulver",
+            "ean": "12342321567"
+         }
+      ]
+   },
+   {
+      "name": "Noch eine Liste",
+      "items": [
+         {
+            "id": 1,
+            "name": "Nutella",
+            "ean": "12342321567"
+         },
+         {
+            "id": 2,
+            "name": "Kakao",
+            "ean": "12342321567"
+         },
+         {
+            "id": 3,
+            "name": "Spüli",
+            "ean": "12342321567"
+         },
+         {
+            "id": 4,
+            "name": "Bier",
+            "ean": "12342321567"
+         },
+         {
+            "id": 5,
+            "name": "Eis",
+            "ean": "12342321567"
+         },
+         {
+            "id": 6,
+            "name": "Kaffee",
+            "ean": "12342321567"
+         },
+         {
+            "id": 7,
+            "name": "Schokolade",
+            "ean": "12342321567"
+         },
+         {
+            "id": 8,
+            "name": "Waschpulver",
+            "ean": "12342321567"
+         }
+      ]
+   }
+]
